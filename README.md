@@ -19,4 +19,23 @@
 
 <h2>Recent Content 🎥</h2>
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@tomisloading/video/7139615123915722027" data-video-id="7139615123915722027" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@tomisloading" href="https://www.tiktok.com/@tomisloading?refer=embed">@tomisloading</a> My Unconventional Path Into Tech <a title="coding" target="_blank" href="https://www.tiktok.com/tag/coding?refer=embed">#coding</a> <a title="programming" target="_blank" href="https://www.tiktok.com/tag/programming?refer=embed">#programming</a> <a title="techtok" target="_blank" href="https://www.tiktok.com/tag/techtok?refer=embed">#techtok</a> <a title="htmlcss" target="_blank" href="https://www.tiktok.com/tag/htmlcss?refer=embed">#htmlcss</a> <a title="javascript" target="_blank" href="https://www.tiktok.com/tag/javascript?refer=embed">#javascript</a> <a title="html" target="_blank" href="https://www.tiktok.com/tag/html?refer=embed">#html</a> <a title="webdev" target="_blank" href="https://www.tiktok.com/tag/webdev?refer=embed">#webdev</a> <a title="webdeveloper" target="_blank" href="https://www.tiktok.com/tag/webdeveloper?refer=embed">#webdeveloper</a> <a target="_blank" title="♬ original sound - Tom Is Loading" href="https://www.tiktok.com/music/original-sound-7139615131884849962?refer=embed">♬ original sound - Tom Is Loading</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<ul>
+   <li>
+    <a href="https://www.tiktok.com/@tomisloading/video/7131375858924768558?is_copy_url=1&is_from_webapp=v1" target="_blank">How To Learn Web Dev</a>
+  </li>
+  <li>
+    <a href="https://www.tiktok.com/@tomisloading/video/7139615123915722027?is_copy_url=1&is_from_webapp=v1" target="_blank">My Unconventional Path Into Coding</a>
+  </li>
+   <li>
+    <a href="https://www.tiktok.com/@tomisloading/video/7139249076255706414?is_copy_url=1&is_from_webapp=v1" target="_blank">SVG Line Animations</a>
+  </li>
+   <li>
+    <a href="https://www.tiktok.com/@tomisloading/video/7136292210525457707?is_copy_url=1&is_from_webapp=v1" target="_blank">Neumorphism With HTML and CSS</a>
+  </li>
+   <li>
+    <a href="https://www.tiktok.com/@tomisloading/video/7135548097425558830?is_copy_url=1&is_from_webapp=v1" target="_blank">React Custom Hooks</a>
+  </li>
+   <li>
+    <a href="https://www.tiktok.com/@tomisloading/video/7136659984884206894?is_copy_url=1&is_from_webapp=v1" target="_blank">CSS Gradient Animations</a>
+  </li>
+</ul>
