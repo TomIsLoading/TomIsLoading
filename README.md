@@ -17,7 +17,7 @@
 
 <p><i>I'm @tomisloading on pretty much everything</i></p>
 
-<h2>Recent Content 🎥</h2>
+<h2>Some Recent Content 🎥</h2>
 
 <ul>
    <li>
@@ -39,3 +39,9 @@
     <a href="https://www.tiktok.com/@tomisloading/video/7136659984884206894?is_copy_url=1&is_from_webapp=v1" target="_blank">CSS Gradient Animations</a>
   </li>
 </ul>
+
+<h2>What I'm Working On</h2>
+
+<p>My main goal right now is to get better every day as both a programmer and an educator. That said, I'm pretty much always tinkering away on soem kind of side project.<p>
+  
+<p>For the last couple of months I've been slowly chiseling away at a website for music producers to find quality royalty-free MIDI files. I've shown it off a bit on my TikTok in <a href="https://www.tiktok.com/@tomisloading/video/7133602168031956270?is_copy_url=1&is_from_webapp=v1" target="_blank">this video</a>, but definitely expect more content on that to come 🔥</p>
