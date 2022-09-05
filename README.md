@@ -6,4 +6,9 @@ I'm a software developer from Orlando, Florida. I make educational videos on You
 
 I mainly talk about web stuff. HTML, CSS, JavaScript, React, that sort of thing. I like to sprinkle in some career related content as well every now and again. 
 
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+I'm @tomisloading on pretty much everything:
+- [YouTube](https://www.youtube.com/channel/UCQ5JhZ8pS-MXnGBsyyy88MQ)
+- [TikTok](https://www.tiktok.com/@tomisloading)
+- [Instagram](https://www.instagram.com/tomisloading/)
+- [Twitter](https://twitter.com/TomIsLoading)
+- [GitHub](https://github.com/TomIsLoading)
